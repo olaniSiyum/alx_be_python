@@ -1,5 +1,5 @@
-p = 1000
-r = 0.05
-t = 3
-I = p*r*t
-print(f"The simple interest is:{I}")
+principal = 1000
+rate = 0.05
+time = 3
+interest = principal*rate*time
+print(f"The simple interest is:{interest}")
